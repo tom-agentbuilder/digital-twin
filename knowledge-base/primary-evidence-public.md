@@ -1,5 +1,5 @@
 [Tom_RAG_Primary_Evidence_v5.md](https://github.com/user-attachments/files/32323432/Tom_RAG_Primary_Evidence_v5.md)
-# Tom Lee — Primary Evidence / RAG Knowledge Base — v5
+# Tom Lee — Primary Evidence / RAG Knowledge Base
 
 ## Retrieval contract
 
